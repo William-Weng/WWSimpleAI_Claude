@@ -1,0 +1,33 @@
+{
+  "originHash" : "6e77d5f15e70fb72d5aa9e32fe3fc6a22f7bdbe8974c99f05f086aaa360f5a52",
+  "pins" : [
+    {
+      "identity" : "wwnetworking",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/William-Weng/WWNetworking.git",
+      "state" : {
+        "revision" : "9e41bb9f5ed6b19030389b77c0a73520844a20f5",
+        "version" : "1.7.5"
+      }
+    },
+    {
+      "identity" : "wwsimpleai_claude",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/William-Weng/WWSimpleAI_Claude",
+      "state" : {
+        "revision" : "85c7ad80f9f7e0fdf57363144fbc9dc45d71de30",
+        "version" : "0.1.0"
+      }
+    },
+    {
+      "identity" : "wwsimpleai_ollama",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/William-Weng/WWSimpleAI_Ollama",
+      "state" : {
+        "revision" : "7191e66631264146b701f68b26f987d261341951",
+        "version" : "1.1.6"
+      }
+    }
+  ],
+  "version" : 3
+}
